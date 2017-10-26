@@ -1,0 +1,11 @@
+table {
+    width: 800px;
+}
+
+tr {
+    height: 100px;
+}
+
+td.black {
+    background-color: rgba(0,30,70, 0.5);
+}
