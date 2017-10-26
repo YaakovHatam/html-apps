@@ -43,8 +43,6 @@
                 userLocationObject.coords.latitude, 
                 userLocationObject.coords.longitude
             );
-            
-            }
         } else {
             city = textCityElement.value;
         }

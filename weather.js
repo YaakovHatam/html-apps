@@ -8,7 +8,7 @@ function getWheater(location, key, callback) {
             apiUri = `http://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${key}&units=imperial`;
             break;
         case 'object':
-             apiUri = `http://api.openweathermap.org/data/2.5/weather?lat=${location.lat}&lon=${location.lon}&appid=${key}&units=imperial`;
+             apiUri = `http://api.openweathermap.org/data/2.5/weather?lat=${location.lat}&lon=${location.long}&appid=${key}&units=imperial`;
     }
     
     
