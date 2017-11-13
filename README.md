@@ -10,3 +10,12 @@ go to documentation [https://openweathermap.org/current]
 ## Persons app
 Objects exercise
 todo: add custom property like enumarble for the function constructor properties
+
+
+## Useful links
+
+### `css` links
+- https://css-tricks.com/
+
+### `Javascript` links
+- https://regexr.com/
